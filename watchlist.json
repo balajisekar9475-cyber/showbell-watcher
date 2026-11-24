@@ -1,0 +1,11 @@
+[
+  {
+    "id": "movie-001",
+    "title": "Coolie",
+    "city": "Chennai",
+    "preferredTheatres": ["Sathyam", "PVR", "AGS"],
+    "bookingUrl": "https://example-theatre-site.com/chennai/movies/coolie",
+    "matchKeywords": ["book tickets", "select seats", "showtimes"],
+    "status": "watching"
+  }
+]
